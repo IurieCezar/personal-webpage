@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+    <meta name="description" content="Udacity FSND Project"/>
+    <meta name="author" content="Iurie Popovici">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0,
+    initial-scale=1.0, user-scalable=yes">
+    <meta charset="utf-8">
+    <title>Portfolio Website</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato"
+          rel="stylesheet">
+    <script type="text/javascript" src="js/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <base target="_blank">
+</head>
+<body>
+    <div class="container">
+        <header class="row">
+            <div class="col-xs-12 col-sm-6">
+                <img src="http://placehold.it/100x100" class="img-responsive">
+            </div>
+            <div class="col-xs-12 col-sm-6 text-right">
+                <h1 class="text-uppercase">
+                    jane doette
+                </h1>
+                <h3 class="text-uppercase">
+                    front-end ninja
+                </h3>
+            </div>
+        </header>
+        <hr>
+        <section class="row">
+            <div class="col-md-12">
+                <img src="http://placekitten.com/g/1200/350"
+                     class="img-responsive" alt="binary code">
+            </div>
+        </section>
+        <div class="row">
+            <h2 class="col-md-12 text-capitalize">
+                featured work
+            </h2>
+        </div>
+        <div class="row">
+            <section class="col-xs-12 col-sm-6 col-md-4">
+                <img src="http://placekitten.com/g/400/150"
+                class="img-responsive" data-toggle="modal"
+                data-target="#Appify">
+                <h3 class="text-uppercase">
+                    appify
+                </h3>
+                <p>
+                    <a href="https://github.com/udacity/Appify/">
+                        https://github.com/udacity/Appify/
+                    </a>
+                </p>
+            </section>
+            <section class="col-xs-12 col-sm-6 col-md-4">
+                <img src="http://placekitten.com/g/400/150"
+                     class="img-responsive"
+                     data-toggle="modal"
+                     data-target="#Sunflower">
+                <h3 class="text-uppercase">
+                    sunflower
+                </h3>
+                <p>
+                    <a href="https://github.com/udacity/Sunflower/">
+                        https://github.com/udacity/Sunflower/
+                    </a>
+                </p>
+            </section>
+            <section class="col-xs-12 col-sm-6 col-md-4">
+                <img src="http://placekitten.com/g/400/150"
+                     class="img-responsive"
+                     data-toggle="modal"
+                     data-target="#Bokeh">
+                <h3 class="text-uppercase" >
+                    bokeh
+                </h3>
+                <p>
+                    <a href="https://github.com/udacity/Bokeh/">https://github.com/udacity/Bokeh/</a>
+                </p>
+            </section>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="Appify" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel">Favorite App Page</h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive" src="http://placekitten.com/g/200/300">
+                    This was my first project in this class. I learned a lot about HTML and CSS.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="Sunflower" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel">Favorite App Page</h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive" src="http://placekitten.com/g/200/300">
+                    This was my first project in this class. I learned a lot about python and OOP.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="Bokeh" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel">Favorite App Page</h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive" src="http://placekitten.com/g/200/300">
+                    This was my third project in this class. I learned a lot about RWD.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
