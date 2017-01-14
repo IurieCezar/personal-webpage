@@ -1,0 +1,68 @@
+/*Apply the selected font-family to all elements*/
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+hr {
+    border: 2px solid #7d97ad;
+    margin-top: 5px;
+}
+
+/*
+    The styles specified inside the media query are applied when the viewport
+    width is 780px and under
+*/
+@media all and (max-width: 780px) {
+
+    .bottom-title,
+    .projects {
+        margin: auto;
+        padding: 10px;
+        width: 80%;
+    }
+
+    .links {
+        margin-bottom: 30px;
+    }
+
+}
+
+.top_row {
+    padding-top: 40px;
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+
+}
+
+.bottom-image {
+    background-color: #7d97ad;
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+}
+
+.name {
+    font-size: 400%;
+    opacity: 0.9;
+}
+
+.nickname {
+    font-size: 150%;
+    font-weight: 600;
+}
+
+.bottom-title {
+    font-weight: 600;
+    margin-top: 30px;
+    opacity: 0.5;
+}
+
+.project-title {
+    font-size: 200%;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
