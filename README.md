@@ -1,4 +1,5 @@
 # personal-webpage
+A webpage built using Responsive Web Design techniques.
 
 ## Prerequisites
 
