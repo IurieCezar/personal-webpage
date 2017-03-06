@@ -10,7 +10,7 @@ To open the webpage, the user needs to have a webbrowser installed.
 
 `git clone https://github.com/IurieCezar/personal-webpage`
 
-* Navigate to the project directory:
+* Navigate to the project directory
 
 * From within the project directory, to launch the webpage double-click on:
 
