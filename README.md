@@ -10,13 +10,11 @@ To open the webpage, the user needs to have a webbrowser installed.
 
 `git clone https://github.com/IurieCezar/personal-webpage`
 
-* Navigate to the directory that contains the code:
+* Navigate to the project directory:
 
-`cd personal-webpage`
+* From within the project directory, to launch the webpage double-click on:
 
-* From within the project directory, launch the webpage with the following command:
-
-`open index.html`
+`index.html`
 
 ## Authors
 * **Iurie Popovici**  - *Initial work* - 
