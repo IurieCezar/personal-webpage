@@ -1,4 +1,4 @@
-# personal-webpage
+# Portfolio Website
 A webpage built using Responsive Web Design techniques.
 
 ## Prerequisites
