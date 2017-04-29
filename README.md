@@ -15,6 +15,12 @@ To open the webpage, the user needs to have a webbrowser installed.
 * From within the project directory, to launch the webpage double-click on:
 
 `index.html`
+## Built With
+
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - The web framework used
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) - Template Engine for python
+* [Bootstrap](http://getbootstrap.com/) - Template Engine for python
+* [GruntJS](https://gruntjs.com/) - Template Engine for python
 
 ## Authors
 * **Iurie Popovici**  - *Initial work* - 
