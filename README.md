@@ -3,7 +3,7 @@ A webpage built using Responsive Web Design techniques.
 
 ## Prerequisites
 
-To open the webpage, the user needs to have a webbrowser installed.
+To open the web page, the user needs to have a web browser installed.
 
 ## How to run the project
 * Clone the repository to your local machine:
@@ -12,7 +12,7 @@ To open the webpage, the user needs to have a webbrowser installed.
 
 * Navigate to the project directory
 
-* From within the project directory, to launch the webpage double-click on:
+* From within the project directory, to launch the web page double-click on:
 
 `index.html`
 ## Built With
