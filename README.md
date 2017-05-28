@@ -17,10 +17,10 @@ To open the webpage, the user needs to have a webbrowser installed.
 `index.html`
 ## Built With
 
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - The web framework used
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) - Template Engine for python
-* [Bootstrap](http://getbootstrap.com/) - Template Engine for python
-* [GruntJS](https://gruntjs.com/) - Template Engine for python
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+* [Bootstrap](http://getbootstrap.com/)
+* [GruntJS](https://gruntjs.com/)
 
 ## Authors
 * **Iurie Popovici**  - *Initial work* - 
