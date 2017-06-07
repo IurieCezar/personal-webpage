@@ -1,6 +1,8 @@
 # Portfolio Website
 A webpage built using Responsive Web Design techniques.
 
+<img width="1097" alt="portfolio" src="https://user-images.githubusercontent.com/19762832/26904219-833d2882-4ba6-11e7-9bc8-68f8929ef4d5.png">
+
 ## Prerequisites
 
 To open the web page, the user needs to have a web browser installed.
