@@ -1,5 +1,6 @@
 # Portfolio Website
-A webpage built using Responsive Web Design techniques.
+
+A Website built using Responsive Web Design techniques. It would display properly on various devices, including Desktop, Tablet, and Mobile. I implemented modal windows to provide a more detailed description of each project. To open them click on the specific image.
 
 <img width="1097" alt="portfolio" src="https://user-images.githubusercontent.com/19762832/26904219-833d2882-4ba6-11e7-9bc8-68f8929ef4d5.png">
 
