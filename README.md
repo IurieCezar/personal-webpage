@@ -11,7 +11,7 @@ To open the web page, the user needs to have a web browser installed.
 ## How to run the project
 * Clone the repository to your local machine:
 
-`git clone https://github.com/IurieCezar/personal-webpage`
+`git clone https://github.com/iuriepopovici/personal-webpage`
 
 * Navigate to the project directory
 
