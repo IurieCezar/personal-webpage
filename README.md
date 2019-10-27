@@ -9,7 +9,7 @@ A website built using responsive web design techniques. It would display properl
 <br />
 
 ## Mobile:
-<img width="501" alt="Screen Shot 2019-10-27 at 12 20 48 AM" src="https://user-images.githubusercontent.com/19762832/67630072-aa03ee80-f84f-11e9-8d78-103c45e7124d.png">
+<img width="480" alt="Screen Shot 2019-10-27 at 12 31 11 AM" src="https://user-images.githubusercontent.com/19762832/67630170-1fbc8a00-f851-11e9-9166-8267d13fa14a.png">
 
 
 ## Prerequisites
