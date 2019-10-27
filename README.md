@@ -2,7 +2,15 @@
 
 A website built using responsive web design techniques. It would display properly on various devices, including Desktop, Tablet, and Mobile. I implemented modal windows to provide a more detailed description of each project. To open them click on the specific image.
 
-<img width="1097" alt="portfolio" src="https://user-images.githubusercontent.com/19762832/26904219-833d2882-4ba6-11e7-9bc8-68f8929ef4d5.png">
+## Desktop:
+<img width="1433" alt="Screen Shot 2019-10-27 at 12 19 17 AM" src="https://user-images.githubusercontent.com/19762832/67630074-b4be8380-f84f-11e9-9a00-2d0fdac4d394.png">
+
+<br />
+<br />
+
+## Mobile:
+<img width="501" alt="Screen Shot 2019-10-27 at 12 20 48 AM" src="https://user-images.githubusercontent.com/19762832/67630072-aa03ee80-f84f-11e9-8d78-103c45e7124d.png">
+
 
 ## Prerequisites
 
